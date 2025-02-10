@@ -33,6 +33,7 @@ pip install flask-ngrok pyngrok scikit-surprise flask pandas numpy scikit-learn
 Make sure you have the following dataset files in the same directory:
 - **ratings.csv** (Contains user ratings for movies)
 - **movies.csv** (Contains movie titles and IDs)
+- Dataset can be downloaded from this link https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset
 
 
 ### 4. Access the Web Application
